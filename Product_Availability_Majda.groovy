@@ -63,6 +63,35 @@ queryString="Select {stock.pk} from {stocklevel as stock} where \n" +
         "{stock.productCode} = '2518801454015' and {stock.warehouse} = '8796093056981' or\n" +
         "{stock.productCode} = '2518801454016' and {stock.warehouse} = '8796093056981' or\n" +
         "{stock.productCode} = '2518801454017' and {stock.warehouse} = '8796093056981' or\n" +
+        
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001004' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001005' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001006' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001007' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001008' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001009' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001010' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001011' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001012' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001013' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001014' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001015' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800001016' or\n" +
+        
+         "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003004' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003005' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003006' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003007' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003008' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003009' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003010' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003011' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003012' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003013' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003014' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003015' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003016' or\n" +
+        "{stock.productCode} = '2518801454017' and {stock.warehouse} = '2518800003017' or\n" +
     
         
         "{stock.productCode} = '2542029992184' and {stock.warehouse} = '8796093056981' ";
